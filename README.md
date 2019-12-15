@@ -9,7 +9,5 @@ This is a player vs. AI Battleship game. The top board is the enemy board and th
 * Red Square means Hit.
 # Built With
 * NetBeans
-# Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 # Authors
 * Amber Price
